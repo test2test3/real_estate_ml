@@ -3,7 +3,7 @@ Local copy of clone
 Machine Learning for Real Estate
 
 
-*** This is a new branch ***
+*** This is another branch ***
 
 You may want to run jupyter in this mode:
 ```
